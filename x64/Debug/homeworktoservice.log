@@ -1,0 +1,8 @@
+﻿  question1.c
+C:\Users\shaha\source\repos\question1\homeworktoservice\question1.c(24,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  question3.c
+C:\Users\shaha\source\repos\question1\homeworktoservice\question3.c(24,13): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\shaha\source\repos\question1\homeworktoservice\question3.c(33,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+C:\Users\shaha\source\repos\question1\homeworktoservice\question1.c(27): warning C4715: 'main_1_1': not all control paths return a value
+  homeworktoservice.vcxproj -> C:\Users\shaha\source\repos\question1\x64\Debug\homeworktoservice.exe
